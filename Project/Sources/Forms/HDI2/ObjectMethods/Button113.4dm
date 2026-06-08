@@ -3,4 +3,4 @@ If (Bool:C1537(Form:C1466.trace))
 End if 
 
 //Creating 3 multi-level style sheets 
-WP New style sheet:C1650(WParea; wk type paragraph:K81:191; "MyList"; 3)
+WP New style sheet:C1650(WParea_2; wk type paragraph:K81:191; "MyList"; 3)

@@ -3,7 +3,7 @@ If (Bool:C1537(Form:C1466.trace))
 End if 
 
 //Setting the multi-level style sheets to the appropriate paragraphs 
-$paragraphs:=WP Get elements:C1550(WParea; wk type paragraph:K81:191)
+$paragraphs:=WP Get elements:C1550(WParea_2; wk type paragraph:K81:191)
 For ($i; 0; 9)
 	If (($i=0) | ($i=5))
 		WP SET ATTRIBUTES:C1342($paragraphs[$i]; wk style sheet:K81:63; levelStyle1)

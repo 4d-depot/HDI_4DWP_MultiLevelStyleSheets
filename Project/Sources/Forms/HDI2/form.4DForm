@@ -318,7 +318,7 @@
 					"stroke": "transparent",
 					"fill": "#FFFFFF"
 				},
-				"WParea": {
+				"WParea_2": {
 					"type": "write",
 					"left": 10,
 					"top": 225,
@@ -330,7 +330,7 @@
 						"onAfterEdit"
 					],
 					"showVerticalRuler": false,
-					"dataSource": "WParea"
+					"dataSource": "WParea_2"
 				},
 				"Rectangle50": {
 					"type": "rectangle",
@@ -727,5 +727,5 @@
 			"LevelSeperators": {}
 		}
 	},
-	"geometryStamp": 3934
+	"geometryStamp": 3935
 }

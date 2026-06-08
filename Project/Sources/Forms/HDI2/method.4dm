@@ -7,7 +7,7 @@ Case of
 		WParea_1:=WP New:C1317
 		fillWPDocument_p1()
 		
-		WParea:=WP New:C1317
+		WParea_2:=WP New:C1317
 		fillWPDocument_p2()
 		
 	: (Form event code:C388=On Close Box:K2:21)
