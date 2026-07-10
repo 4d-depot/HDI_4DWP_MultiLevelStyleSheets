@@ -2,7 +2,7 @@
 
 How do I create multi-level lists using multi-level style sheets?
 
-Find more information on the [blog post](https://blog.4d.com/).
+Find more information on the [blog post](https://blog.4d.com/multi-level-lists-in-4d-write-pro-full-control-over-structure-numbering-and-style/).
 
 ## Installing and Using a 4D Project
 

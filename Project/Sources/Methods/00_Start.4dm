@@ -32,7 +32,7 @@ Case of
 		$options.blog:="blog.4d.com"
 		$options.info:="4D Write Pro Feature"  //ex : "4D View Pro feature"
 		
-		$options.minimumVersion:="2030"  // 1660 means 16R6   1601 means 16.1 (do not use !)
+		$options.minimumVersion:="2130"  // 1660 means 16R6   1601 means 16.1 (do not use !)
 		
 		
 		// $options.license:=4D View license  // IF ANY NEEDED
